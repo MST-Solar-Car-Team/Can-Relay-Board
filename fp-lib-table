@@ -17,4 +17,6 @@
   (lib (name "RRE02VTM4SFHTR")(type "KiCad")(uri "${KIPRJMOD}/components/RRE02VTM4SFHTR/footprints.pretty")(options "")(descr ""))
   (lib (name "LQM18FN100M00D")(type "KiCad")(uri "${KIPRJMOD}/components/LQM18FN100M00D")(options "")(descr ""))
   (lib (name "691305340008")(type "KiCad")(uri "${KIPRJMOD}/components/691305340008")(options "")(descr ""))
+  (lib (name "SMD-Connector")(type "KiCad")(uri "${KIPRJMOD}/components/SMD-Connector")(options "")(descr ""))
+  (lib (name "BCS")(type "KiCad")(uri "${KIPRJMOD}/components/BCS")(options "")(descr ""))
 )
