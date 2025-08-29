@@ -6286,16 +6286,6 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 127) (xy 53.34 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "341e86ba-4db8-49a2-953d-6fa4c712617e")
-	)
-	(wire
-		(pts
 			(xy 355.6 121.92) (xy 369.57 121.92)
 		)
 		(stroke
@@ -6583,16 +6573,6 @@
 			(type default)
 		)
 		(uuid "55a34b52-214c-4d6a-93b0-4c36b42913fd")
-	)
-	(wire
-		(pts
-			(xy 29.21 53.34) (xy 33.02 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "56213fef-58dd-4151-af9e-dac659af1fae")
 	)
 	(wire
 		(pts
@@ -6886,6 +6866,16 @@
 	)
 	(wire
 		(pts
+			(xy 49.53 127) (xy 53.34 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "725f9955-5910-424d-a637-d488de3cc7dc")
+	)
+	(wire
+		(pts
 			(xy 72.39 134.62) (xy 72.39 121.92)
 		)
 		(stroke
@@ -7043,6 +7033,16 @@
 			(type default)
 		)
 		(uuid "84cf853f-f01c-4456-b50f-57caa5ba9170")
+	)
+	(wire
+		(pts
+			(xy 29.21 53.34) (xy 33.02 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "862905a6-1adf-4d07-9a2e-0446740a0b6e")
 	)
 	(wire
 		(pts
@@ -10278,32 +10278,34 @@
 	)
 	(symbol
 		(lib_id "691305340008:691305340008")
-		(at 44.45 132.08 90)
+		(at 44.45 129.54 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "74213957-5ea3-4bb0-b2f2-2bc8105bd54c")
 		(property "Reference" "J5"
-			(at 45.72 115.57 90)
+			(at 43.18 129.5399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Value" "691305340008"
-			(at 45.72 118.11 90)
+			(at 43.18 132.0799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" "691305340008:691305340008"
-			(at 44.45 132.08 0)
+			(at 44.45 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10313,7 +10315,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 44.45 132.08 0)
+			(at 44.45 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10322,7 +10324,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 44.45 132.08 0)
+			(at 44.45 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10331,7 +10333,7 @@
 			)
 		)
 		(property "MF" "Würth Elektronik"
-			(at 44.45 132.08 0)
+			(at 44.45 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10341,7 +10343,7 @@
 			)
 		)
 		(property "Description_1" "8 Position Terminal Block Header, Male Pins, Shrouded (4 Side) 0.150 (3.81mm) 90°, Right Angle - Through Hole"
-			(at 44.45 132.08 0)
+			(at 44.45 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10351,7 +10353,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 44.45 132.08 0)
+			(at 44.45 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10361,7 +10363,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 44.45 132.08 0)
+			(at 44.45 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10371,7 +10373,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/691305340008/W%25C3%25BCrth+Elektronik+Midcom/view-part/?ref=snap"
-			(at 44.45 132.08 0)
+			(at 44.45 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10381,7 +10383,7 @@
 			)
 		)
 		(property "MP" "691305340008"
-			(at 44.45 132.08 0)
+			(at 44.45 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10391,7 +10393,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 44.45 132.08 0)
+			(at 44.45 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10401,7 +10403,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/691305340008/W%25C3%25BCrth+Elektronik+Midcom/view-part/?ref=eda"
-			(at 44.45 132.08 0)
+			(at 44.45 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11463,16 +11465,16 @@
 	)
 	(symbol
 		(lib_id "691305340008:691305340008")
-		(at 24.13 58.42 90)
+		(at 24.13 55.88 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "9f901d30-f81e-4e7a-b981-80eda7b621de")
 		(property "Reference" "J4"
-			(at 25.4 41.91 90)
+			(at 25.4 72.39 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11480,7 +11482,7 @@
 			)
 		)
 		(property "Value" "691305340008"
-			(at 25.4 44.45 90)
+			(at 25.4 69.85 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11488,7 +11490,7 @@
 			)
 		)
 		(property "Footprint" "691305340008:691305340008"
-			(at 24.13 58.42 0)
+			(at 24.13 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11498,7 +11500,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 24.13 58.42 0)
+			(at 24.13 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11507,7 +11509,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 24.13 58.42 0)
+			(at 24.13 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11516,7 +11518,7 @@
 			)
 		)
 		(property "MF" "Würth Elektronik"
-			(at 24.13 58.42 0)
+			(at 24.13 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11526,7 +11528,7 @@
 			)
 		)
 		(property "Description_1" "8 Position Terminal Block Header, Male Pins, Shrouded (4 Side) 0.150 (3.81mm) 90°, Right Angle - Through Hole"
-			(at 24.13 58.42 0)
+			(at 24.13 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11536,7 +11538,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 24.13 58.42 0)
+			(at 24.13 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11546,7 +11548,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 24.13 58.42 0)
+			(at 24.13 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11556,7 +11558,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/691305340008/W%25C3%25BCrth+Elektronik+Midcom/view-part/?ref=snap"
-			(at 24.13 58.42 0)
+			(at 24.13 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11566,7 +11568,7 @@
 			)
 		)
 		(property "MP" "691305340008"
-			(at 24.13 58.42 0)
+			(at 24.13 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11576,7 +11578,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 24.13 58.42 0)
+			(at 24.13 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11586,7 +11588,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/691305340008/W%25C3%25BCrth+Elektronik+Midcom/view-part/?ref=eda"
-			(at 24.13 58.42 0)
+			(at 24.13 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)

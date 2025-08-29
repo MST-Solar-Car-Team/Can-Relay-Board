@@ -15,4 +15,5 @@
   (lib (name "WCAP-CSGP_0402")(type "KiCad")(uri "${KIPRJMOD}/components/WCAP-CSGP_0402/WCAP-CSGP_0402.kicad_sym")(options "")(descr ""))
   (lib (name "TSW-114-14-L-S")(type "KiCad")(uri "${KIPRJMOD}/components/SMD-Connector/TSW-114-14-L-S.kicad_sym")(options "")(descr ""))
   (lib (name "BCS-114-L-S-PE-BE")(type "KiCad")(uri "${KIPRJMOD}/components/BCS/BCS-114-L-S-PE-BE.kicad_sym")(options "")(descr ""))
+  (lib (name "BTS716GB")(type "Altium")(uri "${KIPRJMOD}/components/BTS_Relay/BTS716GB.SchLib")(options "")(descr ""))
 )
