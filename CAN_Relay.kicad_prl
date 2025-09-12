@@ -1,10 +1,32 @@
 {
   "board": {
-    "active_layer": 5,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_netclasses": [],
-    "hidden_nets": [],
+    "hidden_nets": [
+      "Net-(D3-K)",
+      "GND",
+      "Net-(D4-K)",
+      "Net-(D5-K)",
+      "Net-(D6-K)",
+      "Net-(D7-K)",
+      "Net-(D8-K)",
+      "Net-(D9-K)",
+      "Net-(D10-K)",
+      "Net-(F1-Pad2)",
+      "/CANRX",
+      "/CANTX",
+      "Net-(U2-IN2)",
+      "Net-(U2-IN1)",
+      "Net-(U2-ST1{slash}2)",
+      "Net-(U3-IN3)",
+      "Net-(U3-ST1{slash}2)",
+      "Net-(U3-IN4)",
+      "Net-(U3-ST3{slash}4)",
+      "Net-(U3-IN1)",
+      "Net-(U3-IN2)"
+    ],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
@@ -16,17 +38,17 @@
       "zones": 0.6
     },
     "selection_filter": {
-      "dimensions": true,
+      "dimensions": false,
       "footprints": true,
-      "graphics": true,
-      "keepouts": true,
+      "graphics": false,
+      "keepouts": false,
       "lockedItems": false,
-      "otherItems": true,
-      "pads": true,
-      "text": true,
+      "otherItems": false,
+      "pads": false,
+      "text": false,
       "tracks": true,
       "vias": true,
-      "zones": true
+      "zones": false
     },
     "visible_items": [
       "vias",
@@ -51,7 +73,7 @@
       "shapes"
     ],
     "visible_layers": "ffffffff_ffffffff_ffffffff_ffffffff",
-    "zone_display_mode": 0
+    "zone_display_mode": 1
   },
   "git": {
     "repo_type": "",

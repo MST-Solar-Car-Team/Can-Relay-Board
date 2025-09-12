@@ -16,4 +16,5 @@
   (lib (name "TSW-114-14-L-S")(type "KiCad")(uri "${KIPRJMOD}/components/SMD-Connector/TSW-114-14-L-S.kicad_sym")(options "")(descr ""))
   (lib (name "BCS-114-L-S-PE-BE")(type "KiCad")(uri "${KIPRJMOD}/components/BCS/BCS-114-L-S-PE-BE.kicad_sym")(options "")(descr ""))
   (lib (name "BTS716GB")(type "Altium")(uri "${KIPRJMOD}/components/BTS_Relay/BTS716GB.SchLib")(options "")(descr ""))
+  (lib (name "REG1117-5")(type "KiCad")(uri "${KIPRJMOD}/components/REG1117-5/REG1117-5.kicad_sym")(options "")(descr ""))
 )
