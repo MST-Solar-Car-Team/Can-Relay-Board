@@ -4,29 +4,7 @@
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_netclasses": [],
-    "hidden_nets": [
-      "Net-(D3-K)",
-      "GND",
-      "Net-(D4-K)",
-      "Net-(D5-K)",
-      "Net-(D6-K)",
-      "Net-(D7-K)",
-      "Net-(D8-K)",
-      "Net-(D9-K)",
-      "Net-(D10-K)",
-      "Net-(F1-Pad2)",
-      "/CANRX",
-      "/CANTX",
-      "Net-(U2-IN2)",
-      "Net-(U2-IN1)",
-      "Net-(U2-ST1{slash}2)",
-      "Net-(U3-IN3)",
-      "Net-(U3-ST1{slash}2)",
-      "Net-(U3-IN4)",
-      "Net-(U3-ST3{slash}4)",
-      "Net-(U3-IN1)",
-      "Net-(U3-IN2)"
-    ],
+    "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
@@ -73,7 +51,7 @@
       "shapes"
     ],
     "visible_layers": "ffffffff_ffffffff_ffffffff_ffffffff",
-    "zone_display_mode": 1
+    "zone_display_mode": 0
   },
   "git": {
     "repo_type": "",
