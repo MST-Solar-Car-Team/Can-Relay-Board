@@ -19,4 +19,5 @@
   (lib (name "691305340008")(type "KiCad")(uri "${KIPRJMOD}/components/691305340008")(options "")(descr ""))
   (lib (name "SMD-Connector")(type "KiCad")(uri "${KIPRJMOD}/components/SMD-Connector")(options "")(descr ""))
   (lib (name "BCS")(type "KiCad")(uri "${KIPRJMOD}/components/BCS")(options "")(descr ""))
+  (lib (name "REG1117-5")(type "KiCad")(uri "${KIPRJMOD}/components/REG1117-5")(options "")(descr ""))
 )
