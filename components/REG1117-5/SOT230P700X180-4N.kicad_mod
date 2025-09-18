@@ -301,4 +301,15 @@
 		(uuid "7bd6d1c6-8669-4c8c-b18e-e7a218c0cc02")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/components/REG1117-5/REG1117-5.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
 )
